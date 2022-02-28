@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
-**guidamiao/guidamiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guidamiao&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressansantos&layout=compact&theme=aura"/>
+</div>
